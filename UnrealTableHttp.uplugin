@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealTableHttp",
+	"Description": "Declarative HTTP requests via Data Tables with C++ and Blueprint API.",
+	"Category": "Other",
+	"CreatedBy": "Lost Ferry Interactive",
+	"CreatedByURL": "https://lostferry.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UnrealTableHttp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
